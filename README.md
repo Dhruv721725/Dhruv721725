@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhruv721725
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Web dev
-- 💞️ I’m looking to collaborate on Personal AI
+- 👀 I’m interested in logic building, AIs, App dev.
+- 🌱 I’m currently learning App dev using flutter
+- 💞️ I’m looking to collaborate on Personal Apps with ai support
 - 📫 you can reach me by texting me on git hub. 
 
 <!---
